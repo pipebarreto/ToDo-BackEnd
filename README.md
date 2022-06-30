@@ -1,4 +1,4 @@
-# ToDo-BackEnd Project including REST API and JWT
+# ToDo-BackEnd Java Project including REST API and JWT
 
 For Running the code, you can simply download the file and run it on Eclipse.<br>
 By default the program is using h2 Database for testing purposes and some data and todo items are added via CommandLineRunner for testing. These todo items do not have OwnerId because these items are created by the system.
