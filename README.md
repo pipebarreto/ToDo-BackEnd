@@ -1,8 +1,7 @@
-# ToDo-BackEnd Project including JWT
+# ToDo-BackEnd Project including REST API and JWT
 
 For Running the code, you can simply download the file and run it on Eclipse.
 
-REST API
 
 # POST /signup
 For creating a user (Use email and password). The data will be saved and the password will be encrypted.
