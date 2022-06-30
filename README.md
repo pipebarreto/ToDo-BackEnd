@@ -31,4 +31,3 @@ Update a todo item. If id is not found, the programm will return nothing.
 
 # DELETE todos/:id
 Delete todo item.
-
