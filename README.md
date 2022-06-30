@@ -1,13 +1,13 @@
 # ToDo-BackEnd Project including REST API and JWT
 
-For Running the code, you can simply download the file and run it on Eclipse.
+For Running the code, you can simply download the file and run it on Eclipse. By default the program is using h2 Database for testing purposes and some data and todo items are added via CommandLineRunner for testing. These todo items do not have OwnerId because these items are created by the system and the Ownership is automatically assigned to the user who posted it.
 
 
 # POST /signup
-For creating a user (Use email and password). The data will be saved and the password will be encrypted.
+Create a user (Use email and password). The data will be saved and the password will be encrypted.
 
 # POST /login
-For login in the system. The system will return a JWT token which available for an hour. This JWT is required for making any request to server.
+Log in in the system. The system will return a JWT token which available for an hour. This JWT is required for making any request to server.
 You can test it with "email":"diego@test.com" & "password":"diego".
 
 # GET /users
