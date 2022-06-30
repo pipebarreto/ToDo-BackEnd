@@ -1,7 +1,7 @@
 # ToDo-BackEnd Java Project including REST API and JWT
 
 For Running the code, you can download the file and run it on Eclipse. By default, the access to the program is through: http://localhost:8080/<br>
-The program is using h2 Database for testing purposes and some data and items are added via CommandLineRunner for testing. These todo items do not have OwnerId because these items are created by the system.
+The program is using h2 Database for testing purposes and some data and todo items are added via CommandLineRunner for testing. These todo items do not have OwnerId because these items are created by the system.
 
 
 # POST /signup
