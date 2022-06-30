@@ -20,7 +20,7 @@ Change the user's password by sending a String.
 # GET /todos?status=[status]
 Get a list based on the status of the item (OnGoing, Completed, NotStarted). This is a query param and and if its not present, the program will return all items.
 
-# GET /todos/id
+# GET /todos/:id
 Get the details of an specific item.
 
 # POST /todos
