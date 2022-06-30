@@ -24,7 +24,7 @@ Get a list based on the status of the item (OnGoing, Completed, NotStarted). Thi
 Get the details of an specific item.
 
 # POST /todos
-Create a new item. The Owner of the item will be automatically assigned to the user who posted it.
+Create a new item. The Ownership of the item will be automatically assigned to the user who posted it.
 
 # PUT /todos/:id
 Update a todo item. If id is not found, the programm will return nothing. 
