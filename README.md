@@ -8,7 +8,7 @@ The program is using h2 Database for testing purposes and some data and todo ite
 Create a user (Use email and password). The data will be saved and the password will be encrypted.
 
 # POST /login
-Log in in the system. The system will return a JWT token which available for an hour. This JWT is required for making any request to server.
+Log in into the system. The system will return a JWT token which available for an hour. This JWT is required for making any request to server.
 You can test it with "email":"diego@test.com" & "password":"diego".
 
 # GET /users
